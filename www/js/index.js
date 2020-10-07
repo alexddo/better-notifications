@@ -40,7 +40,7 @@ var app = {
                 }
             }
         );
-        app.send_data();
+        //app.send_data();
     },
 
     send_data: function(){
